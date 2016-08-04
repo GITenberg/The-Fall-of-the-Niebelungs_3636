@@ -1,0 +1,22 @@
+_repo: The-Fall-of-the-Niebelungs_3636
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Armour, Margaret
+    gutenberg_agent_id: '1248'
+    url: http://www.gutenberg.org/2009/agents/1248
+description: 'Uniform title: Nibelungenlied'
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Epic poetry, Germanic'
+- GITenberg
+title: The Fall of the Niebelungs
+url: http://www.gutenberg.org/ebooks/3636
